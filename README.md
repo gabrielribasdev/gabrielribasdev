@@ -6,9 +6,10 @@ Atualmente atuo como desenvolvedor fullstack, com foco em PHP para back-end e te
 
 ### Contato
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=40)](https://www.linkedin.com/in/gabriel-ribas-3784bb23b/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&logoWidth=40)](https://github.com/gabrielribasdev)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=40)](mailto:gabrielribaspdev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=40&borderRadius=20)](https://www.linkedin.com/in/gabriel-ribas-3784bb23b/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&logoWidth=40&borderRadius=20)](https://github.com/gabrielribasdev)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=40&borderRadius=20)](mailto:gabrielribaspdev@gmail.com)
+
 
 
 ### Estatísticas do GitHub
