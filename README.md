@@ -2,7 +2,7 @@
 
 ## Sobre Mim
 
-Sou desenvolvedor apaixonado por backend, desenvolvimento web e mobile.
+Atualmente atuo como desenvolvedor fullstack, com foco em PHP para back-end e tecnologias como React e React Native para web e mobile. Adoro ver como as coisas acontecem por baixo dos panos e acompanhar a transformação de códigos em soluções práticas.
 
 ### Contato
 
