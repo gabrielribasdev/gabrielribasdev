@@ -23,13 +23,14 @@ Atualmente atuo como desenvolvedor fullstack, com foco em PHP para back-end e te
 
 #### Front-end
 
-[![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)](https://reactjs.org/)
-[![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)](https://nextjs.org/)
-[![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white&logoWidth=40)](https://reactjs.org/)
+[![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&logoWidth=40)](https://nextjs.org/)
+[![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&logoWidth=40)](https://nodejs.org/)
+[![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white&logoWidth=40)](https://tailwindcss.com/)
 
 #### Back-end
 
-[![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)](https://www.php.net/)
-[![Symfony](https://img.shields.io/badge/-Symfony-8c8c8c?style=flat-square&logo=symfony&logoColor=white)](https://symfony.com/)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&logoWidth=40)](https://www.php.net/)
+[![Symfony](https://img.shields.io/badge/-Symfony-8c8c8c?style=for-the-badge&logo=symfony&logoColor=white&logoWidth=40)](https://symfony.com/)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&logoWidth=40)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
