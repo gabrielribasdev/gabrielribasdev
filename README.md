@@ -7,7 +7,7 @@ Sou desenvolvedor apaixonado por backend, desenvolvimento web e mobile.
 ### Projetos Atuais
 
 1. **Sistema de Avaliação de Trabalhos**
-   - ![Imagem do Projeto](https://github.com/seu-usuario/seu-repositorio/raw/main/imagens/projeto.png)
+   - ![Imagem do Projeto](https://cdn.univicosa.com.br/files/portal/logo/horizontal_png.png)
    - **Descrição**: Uma aplicação composta por um painel de administração e um portal para avaliadores.
    - **Tecnologias**: React, Symfony, PostgreSQL
 
